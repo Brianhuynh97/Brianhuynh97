@@ -11,6 +11,9 @@
 - 🌱 I’m currently learning React.js, Node.js 
 - 📫 How to reach me: vuduchv@gmail.com
 
+
+<img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
