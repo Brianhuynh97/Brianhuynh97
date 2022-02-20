@@ -12,7 +12,7 @@
 - 📫 How to reach me: vuduchv@gmail.com
 
 
-<img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="coding.gif" width="408" height="300" />
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
