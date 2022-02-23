@@ -42,4 +42,7 @@ No Activity tracked this Week
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianhuynh97&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+## LeetCode for life! ([profile](https://leetcode.com/brianhuynh1503))
+[![Brianhuynh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=brianhuynh1503)](https://github.com/KnlnKS/leetcode-stats)
+
 
