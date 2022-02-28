@@ -1,6 +1,8 @@
-<h1> Hi there 👋 My name is Brian - a guy who loves to code</h1>
+<p align="center">
+  <img src="https://github.com/Brianhuynh97/Brianhuynh97/blob/main/Animation.gif" alt="">
+</p>
 
-<h3 align="center">I'm a junior full stack developer with a background in Chemical Engineering, based in New South Wales</h3> 
+<h3 align="center">A Chemical Engineering guy transitions to tech 🤖</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianhuynh97&label=Profile%20views&color=0e75b6&style=flat" alt="brian-huynh" /> </p>
 
