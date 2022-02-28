@@ -6,11 +6,11 @@
 
 - :man_technologist: Proficient in several software systems: HYSYS, EXCEL, MATLAB, VISIO with programming skills
 - :sunglasses: Hungry about Tech knowledge (HTML, JavaScript, CSS, C, C#, Python, Ruby on Rails)
-
-
 - 🌱 I’m currently learning React.js, Node.js 
 - 📫 How to reach me: vuduchv@gmail.com
 
+### A Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianhuynh97&theme=vue)
 
 <img align="right" alt="GIF" src="coding.gif" width="408" height="300" />
 
@@ -44,5 +44,4 @@ No Activity tracked this Week
 
 ## LeetCode for life! ([profile](https://leetcode.com/brianhuynh1503))
 [![Brianhuynh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=brianhuynh1503)](https://github.com/KnlnKS/leetcode-stats)
-
 
