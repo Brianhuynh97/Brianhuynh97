@@ -17,8 +17,9 @@
 <img align="right" alt="GIF" src="coding.gif" width="408" height="300" />
 
 ### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
