@@ -47,3 +47,7 @@ No Activity tracked this Week
 ## LeetCode for life! ([profile](https://leetcode.com/brianhuynh1503))
 [![Brianhuynh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=brianhuynh1503)](https://github.com/KnlnKS/leetcode-stats)
 
+<!-- Markdown -->
+
+## Jokes Card
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=buefy" alt="Jokes Card" />
