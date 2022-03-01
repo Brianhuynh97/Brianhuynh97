@@ -19,13 +19,11 @@
 ### Blog posts
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
