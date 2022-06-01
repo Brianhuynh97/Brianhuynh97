@@ -8,7 +8,7 @@
 
 - :man_technologist: Proficient in several software systems: HYSYS, EXCEL, MATLAB, VISIO with programming skills
 - :sunglasses: Hungry about Tech knowledge (HTML, JavaScript, CSS, C, C#, Python, Ruby on Rails)
-- 🌱 I’m currently learning React.js, Vue.js 
+- 🌱 I’m currently learning React.js, Vue.js and Angular.js
 - 📫 How to reach me: vuduchv@gmail.com
 
 ### A Summary
