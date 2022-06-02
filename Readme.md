@@ -2,7 +2,7 @@
   <img src="https://github.com/Brianhuynh97/Brianhuynh97/blob/main/Animation.gif" alt="">
 </p>
 
-<h3 align="center">A Chemical Engineering guy transitions to tech 🤖</h3> 
+<h3 align="center">A Chemical Engineering guy transitions to tech 🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianhuynh97&label=Profile%20views&color=0e75b6&style=flat" alt="brian-huynh" /> </p>
 
@@ -61,3 +61,5 @@ Ruby         2 mins          ▒░░░░░░░░░░░░░░░░
 
 ## Jokes Card
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=buefy" alt="Jokes Card" />
+
+![Snake animation](https://github.com/brianhuynh97/brianhuynh97/blob/output/github-contribution-grid-snake.svg)
