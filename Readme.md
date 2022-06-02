@@ -62,4 +62,4 @@ Ruby         2 mins          ▒░░░░░░░░░░░░░░░░
 ## Jokes Card
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=buefy" alt="Jokes Card" />
 
-![Snake animation](https://github.com/brianhuynh97/brianhuynh97/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Brianhuynh97/Brianhuynh97/blob/output/github-contribution-grid-snake.svg)
