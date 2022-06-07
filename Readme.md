@@ -35,6 +35,7 @@ TypeScript   6 mins          █▒░░░░░░░░░░░░░░░
 <p align="left">
 <a href="https://www.linkedin.com/in/brian-huynh-a2404a179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-huynh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ibrianhuynh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brian.rh" height="30" width="40" /></a>
+  <a href="https://medium.com/@vuduchv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="brian.rh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
