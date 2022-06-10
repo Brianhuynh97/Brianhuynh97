@@ -5,7 +5,7 @@
 <h3 align="center">A Chemical Engineering guy transitions to tech 🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianhuynh97&label=Profile%20views&color=0e75b6&style=flat" alt="brian-huynh" /> </p>
-<p href="https://www.buymeacoffee.com/brianhuynh" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></p>
+<a href="https://www.buymeacoffee.com/brianhuynh" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 
 - :man_technologist: Proficient in several software systems: HYSYS, EXCEL, MATLAB, VISIO with programming skills
 - :sunglasses: Hungry about Tech knowledge (HTML, JavaScript, CSS, C, C#, Python, Ruby on Rails)
