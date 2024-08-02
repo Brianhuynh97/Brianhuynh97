@@ -54,5 +54,5 @@ No activity tracked
 ## Jokes Card
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=buefy" alt="Jokes Card" />
 
-## Lets play Snake Game with my Github Contribution!
+## Let's play Snake Game with my GitHub Contribution!
 ![Snake animation](https://github.com/Brianhuynh97/Brianhuynh97/blob/output/github-contribution-grid-snake.svg)
