@@ -51,8 +51,7 @@ No activity tracked
 [![Brian's github activity graph](https://activity-graph.herokuapp.com/graph?username=brianhuynh97&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## LeetCode for life! ([profile](https://leetcode.com/brianhuynh1503))
-[![Brianhuynh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=brianhuynh1503)](https://github.com/KnlnKS/leetcode-stats)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Brianhuynh1503?theme=dark)
 <!-- Markdown -->
 
 ## Jokes Card
