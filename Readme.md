@@ -46,9 +46,6 @@ No activity tracked
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianhuynh97)](https://git.io/streak-stats)
 
-**Recent Github Activities:**
-
-[![Brian's github activity graph](https://activity-graph.herokuapp.com/graph?username=brianhuynh97&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## LeetCode for life! ([profile](https://leetcode.com/brianhuynh1503))
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Brianhuynh1503?theme=dark)
