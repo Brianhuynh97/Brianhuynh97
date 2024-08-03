@@ -15,7 +15,7 @@
 ### A Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianhuynh97&theme=vue)
 
-<img align="right" alt="GIF" src="coding.gif" width="408" height="300" />
+<img align="right" alt="GIF" src="coding.gif" width="310" height="340" />
 
 ### Weekly Activities
 
