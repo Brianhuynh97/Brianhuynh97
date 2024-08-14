@@ -22,8 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Fortran   1 hr 40 mins    ████████████████████████▓   99.11 %
-CMake     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
