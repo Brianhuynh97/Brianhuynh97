@@ -2,8 +2,6 @@
   <img src="https://github.com/Brianhuynh97/Brianhuynh97/blob/main/Animation.gif" alt="">
 </p>
 
-<h3 align="center">A Chemical Engineering coder 🤖</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianhuynh97&label=Profile%20views&color=0e75b6&style=flat" alt="brian-huynh" /> </p>
 <a href="https://www.buymeacoffee.com/brianhuynh" target="blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 
