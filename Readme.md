@@ -20,11 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Arc               22 mins         ██████████▓░░░░░░░░░░░░░░   42.55 %
-Groovy            14 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-Other             10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-Java              2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Java Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
