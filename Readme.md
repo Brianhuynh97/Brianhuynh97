@@ -20,8 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C          8 mins          ████████████████████████▓   99.26 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Python   1 hr 26 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
