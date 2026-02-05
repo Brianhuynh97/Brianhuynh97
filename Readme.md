@@ -20,7 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C          51 mins         █████████████████████████   99.61 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
