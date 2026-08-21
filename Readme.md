@@ -20,11 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        7 mins                ██████████████████████░░░   87.38 %
-Markdown   0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Other      0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-XML        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-BibTeX     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
